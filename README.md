@@ -1,8 +1,8 @@
 
 
-## Dark mode Testing
+# Dark mode Testing
 
 
-# NextJS
-# NextTheme
-# Tailwind
+### NextJS
+### NextTheme
+### Tailwind
